@@ -1,0 +1,12 @@
+development:
+   adapter: mysql2
+   encoding: utf8 
+   database: db2 
+   username: root
+   password: root
+production: 
+   adapter: mysql2
+   encoding: utf8 
+   database: db1 
+   username: root
+   password: root
